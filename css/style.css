@@ -464,7 +464,7 @@ body {
 	flex-direction: column;
 	top-margin: 20;
 	 background-position: center;
-	background-image: url('./css/IMG_8506.jpg');
+	background-image: url('IMG_8506.jpg');
 	-webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
