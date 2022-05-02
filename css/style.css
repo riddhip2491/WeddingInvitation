@@ -381,11 +381,10 @@ img {
 
 .title h1 {
 	font-family: 'Dancing Script', cursive;
-	 line-height:1em;
 	font-weight: bold;
 	font-style: normal;
 	font-size: 45px;
-	margin: 10px 0;
+	margin: 20px 0;
 	color: #cc0066;
 }
 
