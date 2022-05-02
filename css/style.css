@@ -381,6 +381,7 @@ img {
 
 .title h1 {
 	font-family: 'Dancing Script', cursive;
+	 line-height: 1em;
 	font-weight: bold;
 	font-style: normal;
 	font-size: 60px;
