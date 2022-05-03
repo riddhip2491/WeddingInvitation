@@ -379,6 +379,13 @@ img {
 	display: block;
 }
 
+.title top-center-decoration {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+}
+
 .title h1 {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
