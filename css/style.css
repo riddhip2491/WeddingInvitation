@@ -474,8 +474,6 @@ body {
 	top-margin: 20;
 	 background-position: center;
 	background-image: url('./IMG_8506.JPG');
-        filter: brightness(50%);
--webkit-filter: brightness (50%);
 	-webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
